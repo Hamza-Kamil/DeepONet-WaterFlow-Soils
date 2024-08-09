@@ -41,7 +41,7 @@ To use the code, follow these steps:
 
 The following GIF demonstrates the water flow in unsaturated soils as modeled by our physics-informed neural operator (DeepONet):
 
-![Results GIF](2Dinfiltration.gif)
+![Results GIF](DeepONet_Codes/2Dinfiltration.gif)
 
 ## Note
 
