@@ -41,13 +41,13 @@ To use the code, follow these steps:
 
 The following images demonstrate the results of our modeling:
 
-| Water Flow Simulation | Additional Results |
+| Water Flow Simulation | 2D Mesh |
 |:----------------------:|:-------------------:|
-| ![Results GIF](DeepONet_Codes/2Dinfiltration.gif) | ![PNG Image](DeepONet_Codes/2Dmesh.png) |
+| <img src="DeepONet_Codes/2Dinfiltration.gif" width="400" alt="Results GIF"> | <img src="DeepONet_Codes/2Dmesh.png" width="400" alt="2D Mesh"> |
 
 Left: The GIF demonstrates the water flow in unsaturated soils as modeled by our physics-informed neural operator (DeepONet).
 
-Right: [Brief description of what the PNG image shows]
+Right: 2D unstructured mesh used in the simulation.
 
 ## Note
 
