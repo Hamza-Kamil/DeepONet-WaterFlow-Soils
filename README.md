@@ -39,19 +39,17 @@ To use the code, follow these steps:
 
 ## Results Visualization
 
-The following images demonstrate the results of our modeling:
-
 | Water Flow Simulation | 2D Mesh |
 |:----------------------:|:-------------------:|
 | <img src="DeepONet_Codes/2Dinfiltration.gif" width="400" alt="Results GIF"> | <img src="DeepONet_Codes/2Dmesh.png" width="400" alt="2D Mesh"> |
 
-Left: The GIF demonstrates the water flow in unsaturated soils as modeled by our physics-informed neural operator (DeepONet).
+Left: The GIF demonstrates water infiltration in unsaturated soils as modeled by our physics-informed neural operator (DeepONet).
 
 Right: 2D unstructured mesh used in the finite element simulation.
 
 ## Note
 
-This repository is intended to serve as a resource for researchers and practitioners interested in advanced solvers for solving partial differential equations related to water flow and mulitple solute transport in unsaturated soils.
+This repository is intended to serve as a resource for researchers and practitioners interested in advanced solvers for solving partial differential equations related to water flow and multiple solute transport in unsaturated soils.
 
 Contributions and improvements are welcome. Feel free to submit pull requests or open issues for any questions or suggestions.
 
