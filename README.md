@@ -47,7 +47,7 @@ The following images demonstrate the results of our modeling:
 
 Left: The GIF demonstrates the water flow in unsaturated soils as modeled by our physics-informed neural operator (DeepONet).
 
-Right: 2D unstructured mesh used in the simulation.
+Right: 2D unstructured mesh used in the finite element simulation.
 
 ## Note
 
