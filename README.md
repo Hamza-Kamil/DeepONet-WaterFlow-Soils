@@ -43,7 +43,7 @@ The following images demonstrate the results of our modeling:
 
 | Water Flow Simulation | Additional Results |
 |:----------------------:|:-------------------:|
-| ![Results GIF](2Dinfiltration.gif) | ![PNG Image](2Dmesh.png) |
+| ![Results GIF](DeepONet_Codes/2Dinfiltration.gif) | ![PNG Image](DeepONet_Codes/2Dmesh.png) |
 
 Left: The GIF demonstrates the water flow in unsaturated soils as modeled by our physics-informed neural operator (DeepONet).
 
