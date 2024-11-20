@@ -1,6 +1,6 @@
 /******************************************************************************
- * Paper: Physics-informed neural operators for efficient modeling of water flow
- *        in unsaturated soils
+ * Paper: Physics-informed neural operators for efficient modeling of infiltration in porous media
+ *        
  * 
  * Description: This script implements a high-fidelity finite element solver
  *              for the Richards equation using FreeFEM++. It serves two purposes:
