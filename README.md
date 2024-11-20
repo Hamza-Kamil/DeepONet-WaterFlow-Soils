@@ -1,4 +1,4 @@
-# Physics-informed neural operators for efficient modeling of water flow in unsaturated soils
+# Physics-informed neural operators for efficient modeling of infiltration in porous media
 
 This repository contains the code implementations used for the research paper titled "Physics-informed neural operators for efficient modeling of water flow in unsaturated soils."
 
